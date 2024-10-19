@@ -20,4 +20,6 @@ Inside the catch sequence we print two variables using the message box the first
 
 To watch the robot run and the results, [click here](https://drive.google.com/file/d/1q-do59VvqaEzyV_r-U7OImhyZyarF6C4/view?usp=sharing)
 
+![image](https://github.com/user-attachments/assets/137fee54-debb-4520-80ad-fe214b74972d)
+
 
